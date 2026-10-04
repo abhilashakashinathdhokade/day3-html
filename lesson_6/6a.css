@@ -1,0 +1,18 @@
+.name {
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.id {
+    font-family: Arial;
+    color: gray;
+}
+
+p,
+.info {
+    font-family: Arial;
+}
+
+.mention {
+    color: rgb(9, 163, 224);
+}
