@@ -1,0 +1,17 @@
+.price {
+    font-family: Arial;
+    font-size: 40px;
+}
+
+.up {
+    color: green;
+}
+
+.currency,
+.time {
+    color: gray;
+}
+
+.down {
+    color: red;
+}
